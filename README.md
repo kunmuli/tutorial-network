@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# tutorial-network
-=======
 # tutorial-network
 
 This is to teach myself.
@@ -27,4 +24,3 @@ This is to teach myself.
 After updating a business network definition, the REST server can be updated to generate new APIs reflecting the updates to the business network definition.
 
 To update the REST server, first the REST server must be stopped using ctrl-C. Then the REST server can be restarted using `composer-rest-server`
->>>>>>> Initial Model, Logic and Angular App
